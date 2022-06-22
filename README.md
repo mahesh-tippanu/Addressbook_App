@@ -1,3 +1,3 @@
 # Addressbook_App
 
-Added: JSON obj to capture User Entry
+Address Book App using HTML CSS JAVASCRIPT
